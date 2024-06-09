@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.68548710.css",
+    "main.js": "/static/js/main.b9063f9d.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/sis.png": "/static/media/sis.110c8cefeb48c1884939.png",
+    "static/media/home.png": "/static/media/home.2f6cce8e01dab781b1f1.png",
+    "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/wilfred resume.pdf": "/static/media/wilfred resume.55019588ea74c33100a6.pdf",
+    "static/media/logo.png": "/static/media/logo.3d60f4178a88fdf571d7.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/index.html",
+    "main.68548710.css.map": "/static/css/main.68548710.css.map",
+    "main.b9063f9d.js.map": "/static/js/main.b9063f9d.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68548710.css",
+    "static/js/main.b9063f9d.js"
+  ]
+}
